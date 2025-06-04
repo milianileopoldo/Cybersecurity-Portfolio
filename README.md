@@ -34,7 +34,7 @@ Below are some of the projects and technical exposure I've had so far. I look fo
 | **UI/UX Design** | <a href="https://github.com/EurekaAUH/PasswordManager.git">Software Engineering: Password Manager App UX/UI Role</a> |
 | **Frontend Web Development** | <a href="https://youtu.be/tkY7kbvhJqg"> Web Project for Assemble with Care</a> |
 
-## Tools
+## Tools I Have Utilized
 ---
 ### 🌐 Networking & Simulation
 <div>
