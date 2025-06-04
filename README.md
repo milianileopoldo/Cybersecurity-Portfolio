@@ -4,7 +4,7 @@
 I'm a final-year Cybersecurity student with a passion for threat intelligence, defensive security, and real-world problem-solving through hands-on learning. Currently an ISC2 Candidate, I’m committed to continuous professional growth and staying aligned with industry standards and best practices.
 Below are some of the projects and technical exposure I've had so far. 
 
-### I look forward to collaborating on more real-world projects to enhance my practical skills and make meaningful contributions to the cybersecurity field.
+### I look forward to collaborating on more real-world projects to enhance my practical skills and make meaningful contributions to the cybersecurity field!
 
 ## Technical Exposure and Developing Skills
 ---
