@@ -11,10 +11,10 @@ I'm currently a Final-year Cybersecurity student passionate about threat intelli
 ## 🛡️ Defensive Security & Threat Intelligence
 | Skill | Associated Academic Project |
 |-----------------------------------------------|----------------------------|
-| **Network Intrusion Analysis** | <a href="[https://google.com](https://docs.google.com/document/d/1dlFm6wCVJKop07R2y8xUNwtSW9pZXNmDwzYiPVPiJgc/edit?usp=sharing)">SecBam Malware Analysis Report</a> |
+| **Network Intrusion Analysis** | <a href="[https://google.com](https://docs.google.com/document/d/1dlFm6wCVJKop07R2y8xUNwtSW9pZXNmDwzYiPVPiJgc/edit?usp=sharing)]">SecBam Malware Analysis Report</a> |
 | **Cyber Resilience Planning** | Cyber Resilience Document |
-| **Incident Response Execution** | <a href="[https://google.com](https://docs.google.com/document/d/1WKu5dEtK55UoiszEvHumOsyQ79ZVHB4vzGkxsgGH6u0/edit?usp=sharing)"> SecBam Post-Incident Report</a> |
-| **Digital Forensic Analysis** | <a href="[https://google.com](https://docs.google.com/document/d/1FQro5Lb8wLsnKVaVo6frkS5eUXh-oGRvYZX4KEZ4eg0/edit?usp=sharing)">Digital Forensic Report </a> |
+| **Incident Response Execution** | <a href="[https://google.com](https://docs.google.com/document/d/1WKu5dEtK55UoiszEvHumOsyQ79ZVHB4vzGkxsgGH6u0/edit?usp=sharing)]"> SecBam Post-Incident Report</a> |
+| **Digital Forensic Analysis** | <a href="[https://google.com](https://docs.google.com/document/d/1FQro5Lb8wLsnKVaVo6frkS5eUXh-oGRvYZX4KEZ4eg0/edit?usp=sharing)]">Digital Forensic Report </a> |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
