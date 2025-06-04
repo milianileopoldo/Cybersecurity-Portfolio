@@ -30,7 +30,7 @@ Below are some of the projects and technical exposure I've had so far. I look fo
 |-------------------------------------------|----------------------------|
 | **Database Management** | MongoDB & MySQL |
 | **Data Driven App** | <a href="https://google.com](https://youtu.be/yzhP29s_vJU)">WonderPals with CountriesAPI</a> |
-| **UI/UX Design** | <a href="https://google.com](https://docs.google.com/document/d/1KTY-zs5kta3NlnDdSm6pd9BeZMXHCX1Bkw-Dm3QAfjQ/edit?usp=sharing)](https://github.com/EurekaAUH/PasswordManager.git)">Software Engineering: Password Manager App UX/UI Role</a> |
+| **UI/UX Design** | <a href="https://github.com/EurekaAUH/PasswordManager.git">Software Engineering: Password Manager App UX/UI Role</a> |
 | **Frontend Web Development** | <a href="https://youtu.be/tkY7kbvhJqg"> Web Project for Assemble with Care</a> |
 
 ## Tools
