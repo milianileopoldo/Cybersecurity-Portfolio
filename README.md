@@ -23,12 +23,19 @@ I'm currently a Final-year Cybersecurity student passionate about threat intelli
 ---
 
 ## 🤖 AI & Cybersecurity Integration
-
 | Skill | Associated Project |
 |-------------------------------------------|----------------------------|
 | **Machine Learning for NIDS** | <a href="https://google.com](https://docs.google.com/document/d/1YmY3lbav2h99Hkecc26uSaRmLcLsiybxW16fnKdCDJQ/edit?usp=sharing)">ML-Powered NIDS</a> |
-| **Rule-Based Algorithm for NIDS** | <a href="https://google.com">Rule-Based NIDS</a> |
+| **Rule-Based Algorithm for NIDS** | <a href="[https://google.com](https://drive.google.com/file/d/1fhnTXn1Ip6xgoSBBgfKSkFzIHK7VGG_h/view?usp=sharing)">Rule-Based NIDS</a> |
+---
 
+## 🔧 Technical Projects
+| Skill | Associated Project |
+|-------------------------------------------|----------------------------|
+| **Database Management** | MongoDB & MySQL |
+| **Data Driven App** | <a href="https://google.com](https://youtu.be/yzhP29s_vJU)">WonderPals with CountriesAPI</a> |
+| **UI/UX Design** | <a href="[https://google.com](https://docs.google.com/document/d/1KTY-zs5kta3NlnDdSm6pd9BeZMXHCX1Bkw-Dm3QAfjQ/edit?usp=sharing)">Software Engineering UI/UX Role </a> |
+| **Frontend Web Development** | <a href="https://youtu.be/tkY7kbvhJqg"> Web Project for Assemble with Care</a> |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
