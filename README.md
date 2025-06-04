@@ -9,15 +9,16 @@ Below are some of the projects and technical exposure I've had so far. I look fo
 ### 🛡️ Defensive Security & Threat Intelligence
 | Skill | Associated Project (All Case Studies) |
 |-----------------------------------------------|----------------------------|
-| **Network Intrusion Analysis** | <a href="https://google.com](https://docs.google.com/document/d/1dlFm6wCVJKop07R2y8xUNwtSW9pZXNmDwzYiPVPiJgc/edit?usp=sharing)"> SecBam Malware Analysis Report</a> |
-| **Cyber Resilience Planning** | <a href="https://google.com](https://docs.google.com/document/d/1dlFm6wCVJKop07R2y8xUNwtSW9pZXNmDwzYiPVPiJgc/edit?usp=sharing)](https://drive.google.com/file/d/1JC0HLlA4__ziUnMFMhi_pFrpWGZmiHsm/view?usp=sharing)">Teletainment Cyber Resilience Document</a> |
-| **Incident Response Execution** | <a href="https://google.com](https://docs.google.com/document/d/1WKu5dEtK55UoiszEvHumOsyQ79ZVHB4vzGkxsgGH6u0/edit?usp=sharing)"> SecBam Post-Incident Report</a> |
-| **Digital Forensic Analysis** | <a href="https://google.com](https://docs.google.com/document/d/1FQro5Lb8wLsnKVaVo6frkS5eUXh-oGRvYZX4KEZ4eg0/edit?usp=sharing)">AlphaDocs Digital Forensic Report </a> |
+| **Network Intrusion Analysis** | <a href="https://google.com](https://docs.google.com/document/d/1dlFm6wCVJKop07R2y8xUNwtSW9pZXNmDwzYiPVPiJgc/edit?usp=sharing)"> Malware Analysis Report</a> |
+| **Cyber Resilience Planning** | <a href="https://google.com](https://docs.google.com/document/d/1dlFm6wCVJKop07R2y8xUNwtSW9pZXNmDwzYiPVPiJgc/edit?usp=sharing)](https://drive.google.com/file/d/1JC0HLlA4__ziUnMFMhi_pFrpWGZmiHsm/view?usp=sharing)"> Cyber Resilience Document</a> |
+| **Incident Response Execution** | <a href="https://google.com](https://docs.google.com/document/d/1WKu5dEtK55UoiszEvHumOsyQ79ZVHB4vzGkxsgGH6u0/edit?usp=sharing)"> Post-Incident Report</a> |
+| **Digital Forensic Analysis** | <a href="https://google.com](https://docs.google.com/document/d/1FQro5Lb8wLsnKVaVo6frkS5eUXh-oGRvYZX4KEZ4eg0/edit?usp=sharing)"> AlphaDocs Digital Forensic Report </a> |
 
 ### 🧠 Offensive & Purple Team Skills
 | Skill | Associated Project (All Case Studies) |
 |-------------------------------------------|----------------------------|
-| **Secure Network Architecture** | <a href="https://docs.google.com/document/d/12rWWGhXCq5nR375hkKhXpevyoYvcaCVDds0kzaDq6GI/edit?usp=sharing">Network Design Proposal for TerraGraff Ltd </a> |
+| **Network Configurations** | <a href="https://docs.google.com/document/d/1yxBJD2UdGNKcShHSvLYoCgR6rnBPqxkGXWnRE7XhgNM/edit?usp=sharing"> Network Journal </a> |
+| **Secure Network Architecture** | <a href="https://docs.google.com/document/d/12rWWGhXCq5nR375hkKhXpevyoYvcaCVDds0kzaDq6GI/edit?usp=sharing"> Network Design Proposal </a> |
 
 ### 🤖 AI & Cybersecurity Integration
 | Skill | Associated Project |
