@@ -6,8 +6,7 @@
 I'm currently a Final-year Cybersecurity student passionate about threat intelligence, defensive security, and real-world problem-solving through hands-on learning.
 
 ## Technical Exposure and Developing Skills
-
-
+---
 ## 🛡️ Defensive Security & Threat Intelligence
 | Skill | Associated Project (All Case Studies) |
 |-----------------------------------------------|----------------------------|
@@ -20,14 +19,12 @@ I'm currently a Final-year Cybersecurity student passionate about threat intelli
 | Skill | Associated Project (All Case Studies) |
 |-------------------------------------------|----------------------------|
 | **Secure Network Architecture** | <a href="https://docs.google.com/document/d/12rWWGhXCq5nR375hkKhXpevyoYvcaCVDds0kzaDq6GI/edit?usp=sharing">Network Design Proposal for TerraGraff Ltd </a> |
----
 
 ## 🤖 AI & Cybersecurity Integration
 | Skill | Associated Project |
 |-------------------------------------------|----------------------------|
 | **Machine Learning for NIDS** | <a href="https://google.com](https://docs.google.com/document/d/1YmY3lbav2h99Hkecc26uSaRmLcLsiybxW16fnKdCDJQ/edit?usp=sharing)">ML-Powered NIDS</a> |
 | **Rule-Based Algorithm for NIDS** | <a href="[https://google.com](https://drive.google.com/file/d/1fhnTXn1Ip6xgoSBBgfKSkFzIHK7VGG_h/view?usp=sharing)">Rule-Based NIDS</a> |
----
 
 ## 🔧 Technical Projects
 | Skill | Associated Project |
