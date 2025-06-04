@@ -5,17 +5,16 @@
 
 I'm currently a Final-year Cybersecurity student passionate about threat intelligence, defensive security, and real-world problem-solving through hands-on learning.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Technical Exposure and Developing Skills
 
-| Skill                                         | Associated Project         |
+
+## 🛡️ Defensive Security & Threat Intelligence
+| Skill | Associated Academic Project |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| **Network Intrusion Analysis** | <a href="[https://google.com](https://docs.google.com/document/d/1dlFm6wCVJKop07R2y8xUNwtSW9pZXNmDwzYiPVPiJgc/edit?usp=sharing)">SecBam Malware Analysis Report</a> |
+| **Cyber Resilience Planning** | Cyber Resilience Document |
+| **Incident Response Execution** | <a href="[https://google.com](https://docs.google.com/document/d/1WKu5dEtK55UoiszEvHumOsyQ79ZVHB4vzGkxsgGH6u0/edit?usp=sharing)"> SecBam Post-Incident Report</a> |
+| **Digital Forensic Analysis** | <a href="[https://google.com](https://docs.google.com/document/d/1FQro5Lb8wLsnKVaVo6frkS5eUXh-oGRvYZX4KEZ4eg0/edit?usp=sharing)">Digital Forensic Report </a> |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
