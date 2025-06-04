@@ -9,7 +9,7 @@ I'm currently a Final-year Cybersecurity student passionate about threat intelli
 
 
 ## 🛡️ Defensive Security & Threat Intelligence
-| Skill | Associated Academic Project |
+| Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
 | **Network Intrusion Analysis** | <a href="https://google.com](https://docs.google.com/document/d/1dlFm6wCVJKop07R2y8xUNwtSW9pZXNmDwzYiPVPiJgc/edit?usp=sharing)">SecBam Malware Analysis Report</a> |
 | **Cyber Resilience Planning** | Cyber Resilience Document |
