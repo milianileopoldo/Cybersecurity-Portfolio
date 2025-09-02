@@ -25,8 +25,8 @@ Below are some of the projects and technical exposure I've had so far.
 ### 🤖 AI & Cybersecurity Integration
 | Skill | Associated Project |
 |-------------------------------------------|----------------------------|
-| **Machine Learning for NIDS** | <a href="https://google.com](https://docs.google.com/document/d/1YmY3lbav2h99Hkecc26uSaRmLcLsiybxW16fnKdCDJQ/edit?usp=sharing)">ML-Powered NIDS</a> |
-| **Rule-Based Algorithm for NIDS** | <a href="https://google.com](https://drive.google.com/file/d/1fhnTXn1Ip6xgoSBBgfKSkFzIHK7VGG_h/view?usp=sharing)">Rule-Based NIDS</a> |
+| **Machine Learning for NIDS** | <a href="https://docs.google.com/document/d/1YmY3lbav2h99Hkecc26uSaRmLcLsiybxW16fnKdCDJQ/edit?usp=sharing">ML-Powered NIDS</a> |
+| **Rule-Based Algorithm for NIDS** | <a href="https://docs.google.com/document/d/1jWwUuS14iSJHxBRz_yqQsvvANykhigP0b33QNueqTQo/edit?usp=sharing">Rule-Based NIDS</a> |
 
 ### 🔧 Technical Projects
 | Skill | Associated Project |
