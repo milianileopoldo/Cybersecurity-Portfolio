@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Miliani Ariele Leopoldo
+# 👋 Hello! 
 <a href="https://linkedin.com/in/miliani-leopoldo"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm Cybersecurity student graduate, ISC2 CC Certified, I’m committed to continuous professional growth and staying aligned with industry standards and best practices.
